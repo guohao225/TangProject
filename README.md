@@ -21,3 +21,13 @@ app.py --- 已废弃
 server.py --- 后端启动文件  
 train.py --- 训练模型  
 
+# 启动
+## 启动后台
+项目拉取下来后，安装后端依赖，注意配置tensorflow-gpu的运行环境。本机环境为cudnn(v8.3)  
+![image](https://github.com/guohao225/TangProject/assets/80250472/6cb63578-6800-4e31-871d-9d685e42f253)
+1. 在项目开始前需要预训练参数，训练文件存在于data/NER_TRAIN/NERTRAIN.txt. 预训练的参数保存位置可以在model.json中配置，字段为“save_path”
+2. 训练完成后请在srever.py文件中启动后台
+如果需要使用BERT训练参数，请将下载的BERT预训练参数放到**MiniRBT-h256-pt**文件夹下，注意只支持bert4keras能加载的BERT预训练模型。
+## 启动前端
+1. 将项目根目录跳转到web文件夹下，运行  `npm install`
+2. 安装依赖完成后，运行`npm run serve` 

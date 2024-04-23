@@ -1,0 +1,15 @@
+Bilstm+CRF 86%
+ATTENTION+CNN+lstm+CRF 84%
+aTTENTION+CNN+bILSTM 86%
+Attention+cnn+atn_bilstm 87%
+cnn+atnBilstm 88%
+
+CNN层加relu会有1%的提升
+不使用batch_normalizetion性能有严重的下滑
+
+cnn+relu+attention+atnBilstm min_loss:1.74 ---存在过拟合
+cnn+relu attention+relu atnBilstm begin_loss:5.6 min_loss:1.75 ----attention加relu激活函数无用，过拟合
+更换优化器SGD begin_loss:6.4 min_loss:1.89
+
+cnn+relu+attention+atnBilstm min_loss：1.68 ————————len:50 optermizer:Nadam
+加入正则化参数 min_loss:1.62

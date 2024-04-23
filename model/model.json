@@ -1,0 +1,75 @@
+{
+    "data": {
+        "data_dir": "data",
+        "train_file_name": "NerTrain.txt",
+        "ver_file_name": "C-CLUE/val",
+        "save_path": "POEM/POEM",
+        "file_sep": " ",
+        "vocab_dir": "data/vocab",
+        "vocab_name": "label2id2.txt",
+        "label_name": "label2id.txt",
+        "pre_train_embedding":"data/vocab/sgns.sikuquanshu.bigram",
+        "describe": "data_dir为数据存放的文件夹，train_file_name为训练文件，ver_file_name为验证集文件，file_sep为数据的分割符,vacab_dir词表文件夹,vocab_name:词表名称"
+    },
+    "model_config": {
+        "finetune": false,
+        "ver_model": -1,
+        "use_bert": false,
+        "use_seg": false,
+        "use_bert_embedding": true,
+        "use_crf": false,
+        "use_cnn": true,
+        "use_pre_embedding":false,
+        "checkpoints_dir": "checkpoints",
+        "checkpoint_name": "Bilstm-atn-Crf",
+        "embedding_dim": 300,
+        "max_sequence_len": 120,
+        "cnn_filters": 300,
+        "kernel_size": 3,
+        "attention_width": 3,
+        "attention_regularizer_weight": 1,
+        "hidden_dim": 128,
+        "attention_dim": 32,
+        "attention_type": 1,
+        "attention_activate": "softmax",
+        "num_class": 8,
+        "seed": 42
+    },
+    "label_config": {
+        "label_prefix": [
+            "B",
+            "I",
+            "O"
+        ],
+        "label_suffix": [
+            "PER",
+            "LOC"
+        ],
+        "padding": "[PAD]",
+        "describe": [
+            "label_prefix:标签的前缀",
+            "label_suffix:标签的后缀"
+        ]
+    },
+    "train_config": {
+        "mode": 1,
+        "epochs": 20,
+        "save_model": true,
+        "batch_size": 100,
+        "droupout": 0.5,
+        "ver_rate": 0.75,
+        "regularizers_coeffiicient": 0.5,
+        "atn_regularizers_coeffiicient": 0.05,
+        "learning_rate": 0.005,
+        "optimizer": "SGD",
+        "per_step_to_save": 10,
+        "describe": [
+            "epochs:训练次数",
+            "batch_size:训练样本批次大小,默认：10",
+            "droupout:神经元失效率  0.2",
+            "learning_rate:学习率",
+            "optimizer:优化函数",
+            "per_step_to_show:在训练时，每30步打印一次输出"
+        ]
+    }
+}

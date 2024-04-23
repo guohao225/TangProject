@@ -1,0 +1,83 @@
+{
+    "data": {
+        "data_dir": "data",
+        "train_file_name": "MSRA/msra_train.txt",
+        "ver_file_name": "MSRA/msra_test",
+        "save_path": "MSRA/MSRA",
+        "file_sep": " ",
+        "vocab_dir": "data/vocab",
+        "vocab_name": "vocab.txt",
+        "label_name": "label2id2.txt",
+        "pre_train_embedding":"data/vocab/sgns.sikuquanshu.bigram",
+        "describe": "data_dir为数据存放的文件夹，train_file_name为训练文件，ver_file_name为验证集文件，file_sep为数据的分割符,vacab_dir词表文件夹,vocab_name:词表名称"
+    },
+    "model_config": {
+        "finetune": false,
+        "ver_model": -1,
+        "use_bert": false,
+        "b_attention": false,
+        "use_bert_embedding": true,
+        "use_crf": true,
+        "use_pre_embedding":false,
+        "multi_head_num": 8,
+        "bert_model_name": "hfl/chinese-bert-wwm-ext",
+        "checkpoints_dir": "checkpoints",
+        "checkpoint_name": "Bilstm-atn-Crf",
+        "embedding_dim": 300,
+        "max_sequence_len": 70,
+        "hidden_dim": 200,
+        "attention_dim": 200,
+        "attention_activate": "softmax",
+        "attention_type": 1,
+        "kernel_size": 3,
+        "num_class": 8,
+        "seed": 42,
+        "describe": [
+            "hfl/chinese-bert-wwm-ext, Jihuai/bert-ancient-chinese, ethanyt/guwenbert-base",
+            "finetune:bert模型是否使用微调，",
+            "ver_model:[1:'LSTM',2:'BILSTM']",
+            "checkpoints_dir模型参数输出文件夹",
+            "checkpoint_name：模型参数保存的文件",
+            "embedding_dim：词嵌入维度",
+            "hidden_dim：隐藏层维度",
+            "主动学习的参数设置：300, 32, 4, 300,10",
+            "max_sequence_len:最大句子长度 300",
+            "seed:",
+            "MRSA:128,8,0.5,0.001"
+        ]
+    },
+    "label_config": {
+        "label_prefix": [
+            "B",
+            "I",
+            "O"
+        ],
+        "label_suffix": [
+            "PER",
+            "LOC"
+        ],
+        "padding": "[PAD]",
+        "describe": [
+            "label_prefix:标签的前缀",
+            "label_suffix:标签的后缀"
+        ]
+    },
+    "train_config": {
+        "epochs": 20,
+        "batch_size": 100,
+        "droupout": 0.5,
+        "regularizers_coeffiicient": 0.5,
+        "atn_regularizers_coeffiicient": 0.05,
+        "learning_rate": 0.0001,
+        "optimizer": "SGD",
+        "per_step_to_save": 10,
+        "describe": [
+            "epochs:训练次数",
+            "batch_size:训练样本批次大小,默认：10",
+            "droupout:神经元失效率  0.2",
+            "learning_rate:学习率",
+            "optimizer:优化函数",
+            "per_step_to_show:在训练时，每30步打印一次输出"
+        ]
+    }
+}

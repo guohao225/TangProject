@@ -1,0 +1,1734 @@
+[
+    {
+        "date": "1",
+        "words": {
+            "person": [
+                {
+                    "sudden": 8,
+                    "text": "swartz",
+                    "frequency": 7,
+                    "topic": "person",
+                    "id": "swartz_person_10"
+                },
+                {
+                    "sudden": 8,
+                    "text": "aaron swartz",
+                    "frequency": 7,
+                    "topic": "person",
+                    "id": "aaron_swartz_person_10"
+                },
+                {
+                    "sudden": 5.333333333333333,
+                    "text": "john brennan",
+                    "frequency": 15,
+                    "topic": "person",
+                    "id": "john_brennan_person_10"
+                },
+                {
+                    "sudden": 5,
+                    "text": "brennan",
+                    "frequency": 9,
+                    "topic": "person",
+                    "id": "brennan_person_10"
+                },
+                {
+                    "sudden": 5,
+                    "text": "mohamed osman mohamud",
+                    "frequency": 4,
+                    "topic": "person",
+                    "id": "mohamed_osman_mohamud_person_10"
+                },
+                {
+                    "sudden": 5,
+                    "text": "john kiriakou",
+                    "frequency": 4,
+                    "topic": "person",
+                    "id": "john_kiriakou_person_10"
+                },
+                {
+                    "sudden": 5,
+                    "text": "aaron",
+                    "frequency": 4,
+                    "topic": "person",
+                    "id": "aaron_person_10"
+                },
+                {
+                    "sudden": 5,
+                    "text": "jason leopold",
+                    "frequency": 4,
+                    "topic": "person",
+                    "id": "jason_leopold_person_10"
+                },
+                {
+                    "sudden": 4,
+                    "text": "jack goldsmith",
+                    "frequency": 3,
+                    "topic": "person",
+                    "id": "jack_goldsmith_person_10"
+                },
+                {
+                    "sudden": 4,
+                    "text": "abu zubaydah",
+                    "frequency": 3,
+                    "topic": "person",
+                    "id": "abu_zubaydah_person_10"
+                },
+                {
+                    "sudden": 4,
+                    "text": "mohamud",
+                    "frequency": 3,
+                    "topic": "person",
+                    "id": "mohamud_person_10"
+                },
+                {
+                    "sudden": 4,
+                    "text": "mohammed",
+                    "frequency": 3,
+                    "topic": "person",
+                    "id": "mohammed_person_10"
+                },
+                {
+                    "sudden": 4,
+                    "text": "hillary clinton",
+                    "frequency": 3,
+                    "topic": "person",
+                    "id": "hillary_clinton_person_10"
+                },
+                {
+                    "sudden": 4,
+                    "text": "john yoo",
+                    "frequency": 3,
+                    "topic": "person",
+                    "id": "john_yoo_person_10"
+                },
+                {
+                    "sudden": 4,
+                    "text": "mcmahon",
+                    "frequency": 3,
+                    "topic": "person",
+                    "id": "mcmahon_person_10"
+                }
+            ],
+            "location": [
+                {
+                    "sudden": 5,
+                    "text": "massachusetts",
+                    "frequency": 4,
+                    "topic": "location",
+                    "id": "massachusetts_location_10"
+                },
+                {
+                    "sudden": 4,
+                    "text": "portland",
+                    "frequency": 3,
+                    "topic": "location",
+                    "id": "portland_location_10"
+                },
+                {
+                    "sudden": 4,
+                    "text": "guantanamo bay",
+                    "frequency": 3,
+                    "topic": "location",
+                    "id": "guantanamo_bay_location_10"
+                },
+                {
+                    "sudden": 3.6666666666666665,
+                    "text": "yemen",
+                    "frequency": 10,
+                    "topic": "location",
+                    "id": "yemen_location_10"
+                },
+                {
+                    "sudden": 3,
+                    "text": "minnesota",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "minnesota_location_10"
+                },
+                {
+                    "sudden": 3,
+                    "text": "charlotte",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "charlotte_location_10"
+                },
+                {
+                    "sudden": 3,
+                    "text": "n.c.",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "n_c__location_10"
+                },
+                {
+                    "sudden": 3,
+                    "text": "united kingdom",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "united_kingdom_location_10"
+                },
+                {
+                    "sudden": 3,
+                    "text": "guantanamo",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "guantanamo_location_10"
+                },
+                {
+                    "sudden": 3,
+                    "text": "wonderland",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "wonderland_location_10"
+                },
+                {
+                    "sudden": 3,
+                    "text": "cambridge",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "cambridge_location_10"
+                },
+                {
+                    "sudden": 3,
+                    "text": "dod",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "dod_location_10"
+                },
+                {
+                    "sudden": 2.5,
+                    "text": "saudi arabia",
+                    "frequency": 4,
+                    "topic": "location",
+                    "id": "saudi_arabia_location_10"
+                },
+                {
+                    "sudden": 2,
+                    "text": "pakistan",
+                    "frequency": 9,
+                    "topic": "location",
+                    "id": "pakistan_location_10"
+                },
+                {
+                    "sudden": 2,
+                    "text": "britain",
+                    "frequency": 1,
+                    "topic": "location",
+                    "id": "britain_location_10"
+                }
+            ],
+            "organization": [
+                {
+                    "sudden": 7,
+                    "text": "al qaeda",
+                    "frequency": 6,
+                    "topic": "organization",
+                    "id": "al_qaeda_organization_10"
+                },
+                {
+                    "sudden": 5,
+                    "text": "un",
+                    "frequency": 4,
+                    "topic": "organization",
+                    "id": "un_organization_10"
+                },
+                {
+                    "sudden": 5,
+                    "text": "aumf",
+                    "frequency": 4,
+                    "topic": "organization",
+                    "id": "aumf_organization_10"
+                },
+                {
+                    "sudden": 5,
+                    "text": "mit",
+                    "frequency": 4,
+                    "topic": "organization",
+                    "id": "mit_organization_10"
+                },
+                {
+                    "sudden": 5,
+                    "text": "secret service",
+                    "frequency": 4,
+                    "topic": "organization",
+                    "id": "secret_service_organization_10"
+                },
+                {
+                    "sudden": 4,
+                    "text": "jsoc",
+                    "frequency": 3,
+                    "topic": "organization",
+                    "id": "jsoc_organization_10"
+                },
+                {
+                    "sudden": 4,
+                    "text": "wall street journal",
+                    "frequency": 3,
+                    "topic": "organization",
+                    "id": "wall_street_journal_organization_10"
+                },
+                {
+                    "sudden": 4,
+                    "text": "gloves come off memorandum of notification",
+                    "frequency": 3,
+                    "topic": "organization",
+                    "id": "gloves_come_off_memorandum_of_notification_organization_10"
+                },
+                {
+                    "sudden": 4,
+                    "text": "jstor",
+                    "frequency": 3,
+                    "topic": "organization",
+                    "id": "jstor_organization_10"
+                },
+                {
+                    "sudden": 4,
+                    "text": "olc",
+                    "frequency": 3,
+                    "topic": "organization",
+                    "id": "olc_organization_10"
+                },
+                {
+                    "sudden": 3.3333333333333335,
+                    "text": "fbi",
+                    "frequency": 9,
+                    "topic": "organization",
+                    "id": "fbi_organization_10"
+                },
+                {
+                    "sudden": 3,
+                    "text": "justice department",
+                    "frequency": 8,
+                    "topic": "organization",
+                    "id": "justice_department_organization_10"
+                },
+                {
+                    "sudden": 3,
+                    "text": "institute for science and international security",
+                    "frequency": 2,
+                    "topic": "organization",
+                    "id": "institute_for_science_and_international_security_organization_10"
+                },
+                {
+                    "sudden": 3,
+                    "text": "us attorneys",
+                    "frequency": 2,
+                    "topic": "organization",
+                    "id": "us_attorneys_organization_10"
+                },
+                {
+                    "sudden": 3,
+                    "text": "article ii",
+                    "frequency": 2,
+                    "topic": "organization",
+                    "id": "article_ii_organization_10"
+                }
+            ],
+            "miscellaneous": [
+                {
+                    "sudden": 5,
+                    "text": "british",
+                    "frequency": 4,
+                    "topic": "miscellaneous",
+                    "id": "british_miscellaneous_10"
+                },
+                {
+                    "sudden": 4,
+                    "text": "european",
+                    "frequency": 3,
+                    "topic": "miscellaneous",
+                    "id": "european_miscellaneous_10"
+                },
+                {
+                    "sudden": 4,
+                    "text": "somali",
+                    "frequency": 3,
+                    "topic": "miscellaneous",
+                    "id": "somali_miscellaneous_10"
+                },
+                {
+                    "sudden": 4,
+                    "text": "yemeni",
+                    "frequency": 3,
+                    "topic": "miscellaneous",
+                    "id": "yemeni_miscellaneous_10"
+                },
+                {
+                    "sudden": 3,
+                    "text": "western",
+                    "frequency": 5,
+                    "topic": "miscellaneous",
+                    "id": "western_miscellaneous_10"
+                },
+                {
+                    "sudden": 3,
+                    "text": "islamist",
+                    "frequency": 5,
+                    "topic": "miscellaneous",
+                    "id": "islamist_miscellaneous_10"
+                },
+                {
+                    "sudden": 3,
+                    "text": "medicare",
+                    "frequency": 2,
+                    "topic": "miscellaneous",
+                    "id": "medicare_miscellaneous_10"
+                },
+                {
+                    "sudden": 3,
+                    "text": "muslim",
+                    "frequency": 2,
+                    "topic": "miscellaneous",
+                    "id": "muslim_miscellaneous_10"
+                },
+                {
+                    "sudden": 3,
+                    "text": "west",
+                    "frequency": 2,
+                    "topic": "miscellaneous",
+                    "id": "west_miscellaneous_10"
+                },
+                {
+                    "sudden": 3,
+                    "text": "army",
+                    "frequency": 2,
+                    "topic": "miscellaneous",
+                    "id": "army_miscellaneous_10"
+                },
+                {
+                    "sudden": 3,
+                    "text": "guantanamo",
+                    "frequency": 2,
+                    "topic": "miscellaneous",
+                    "id": "guantanamo_miscellaneous_10"
+                },
+                {
+                    "sudden": 3,
+                    "text": "undiebomb",
+                    "frequency": 2,
+                    "topic": "miscellaneous",
+                    "id": "undiebomb_miscellaneous_10"
+                },
+                {
+                    "sudden": 3,
+                    "text": "criminal division",
+                    "frequency": 2,
+                    "topic": "miscellaneous",
+                    "id": "criminal_division_miscellaneous_10"
+                },
+                {
+                    "sudden": 2.5,
+                    "text": "saudis",
+                    "frequency": 4,
+                    "topic": "miscellaneous",
+                    "id": "saudis_miscellaneous_10"
+                },
+                {
+                    "sudden": 2,
+                    "text": "administration",
+                    "frequency": 7,
+                    "topic": "miscellaneous",
+                    "id": "administration_miscellaneous_10"
+                }
+            ]
+        }
+    },
+    {
+        "date": "5",
+        "words": {
+            "person": [
+                {
+                    "sudden": 6,
+                    "text": "daniel klaidman",
+                    "frequency": 5,
+                    "topic": "person",
+                    "id": "daniel_klaidman_person_9"
+                },
+                {
+                    "sudden": 5,
+                    "text": "david petraeus",
+                    "frequency": 4,
+                    "topic": "person",
+                    "id": "david_petraeus_person_9"
+                },
+                {
+                    "sudden": 4,
+                    "text": "drone",
+                    "frequency": 3,
+                    "topic": "person",
+                    "id": "drone_person_9"
+                },
+                {
+                    "sudden": 4,
+                    "text": "klaidman",
+                    "frequency": 3,
+                    "topic": "person",
+                    "id": "klaidman_person_9"
+                },
+                {
+                    "sudden": 3.3333333333333335,
+                    "text": "anwar al-awlaki",
+                    "frequency": 19,
+                    "topic": "person",
+                    "id": "anwar_al_awlaki_person_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "dianne feinstein",
+                    "frequency": 8,
+                    "topic": "person",
+                    "id": "dianne_feinstein_person_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "tommy vietor",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "tommy_vietor_person_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "sam alito",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "sam_alito_person_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "obama's",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "obama_s_person_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "pham",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "pham_person_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "minh quang pham",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "minh_quang_pham_person_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "mcneal",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "mcneal_person_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "gregory mcneal",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "gregory_mcneal_person_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "saxby chambliss",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "saxby_chambliss_person_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "kamal derwish",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "kamal_derwish_person_9"
+                }
+            ],
+            "location": [
+                {
+                    "sudden": 5,
+                    "text": "benghazi",
+                    "frequency": 4,
+                    "topic": "location",
+                    "id": "benghazi_location_9"
+                },
+                {
+                    "sudden": 4,
+                    "text": "pentagon",
+                    "frequency": 3,
+                    "topic": "location",
+                    "id": "pentagon_location_9"
+                },
+                {
+                    "sudden": 4,
+                    "text": "arabian",
+                    "frequency": 3,
+                    "topic": "location",
+                    "id": "arabian_location_9"
+                },
+                {
+                    "sudden": 4,
+                    "text": "florida",
+                    "frequency": 3,
+                    "topic": "location",
+                    "id": "florida_location_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "algeria",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "algeria_location_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "vietnam",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "vietnam_location_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "maidan wardak",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "maidan_wardak_location_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "cia",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "cia_location_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "drone",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "drone_location_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "soviet union",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "soviet_union_location_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "columbia",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "columbia_location_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "georgia",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "georgia_location_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "south carolina",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "south_carolina_location_9"
+                },
+                {
+                    "sudden": 2.5,
+                    "text": "mali",
+                    "frequency": 4,
+                    "topic": "location",
+                    "id": "mali_location_9"
+                },
+                {
+                    "sudden": 2.5,
+                    "text": "arabian peninsula",
+                    "frequency": 4,
+                    "topic": "location",
+                    "id": "arabian_peninsula_location_9"
+                }
+            ],
+            "organization": [
+                {
+                    "sudden": 6,
+                    "text": "intelligence committee",
+                    "frequency": 5,
+                    "topic": "organization",
+                    "id": "intelligence_committee_organization_9"
+                },
+                {
+                    "sudden": 6,
+                    "text": "committee",
+                    "frequency": 5,
+                    "topic": "organization",
+                    "id": "committee_organization_9"
+                },
+                {
+                    "sudden": 6,
+                    "text": "fisa court",
+                    "frequency": 5,
+                    "topic": "organization",
+                    "id": "fisa_court_organization_9"
+                },
+                {
+                    "sudden": 4,
+                    "text": "fourth amendment",
+                    "frequency": 3,
+                    "topic": "organization",
+                    "id": "fourth_amendment_organization_9"
+                },
+                {
+                    "sudden": 4,
+                    "text": "the president",
+                    "frequency": 3,
+                    "topic": "organization",
+                    "id": "the_president_organization_9"
+                },
+                {
+                    "sudden": 4,
+                    "text": "us special operations",
+                    "frequency": 3,
+                    "topic": "organization",
+                    "id": "us_special_operations_organization_9"
+                },
+                {
+                    "sudden": 4,
+                    "text": "posse comitatus act",
+                    "frequency": 3,
+                    "topic": "organization",
+                    "id": "posse_comitatus_act_organization_9"
+                },
+                {
+                    "sudden": 4,
+                    "text": "targeted killing court",
+                    "frequency": 3,
+                    "topic": "organization",
+                    "id": "targeted_killing_court_organization_9"
+                },
+                {
+                    "sudden": 4,
+                    "text": "targeted killing ) court",
+                    "frequency": 3,
+                    "topic": "organization",
+                    "id": "targeted_killing___court_organization_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "senate intelligence committee",
+                    "frequency": 11,
+                    "topic": "organization",
+                    "id": "senate_intelligence_committee_organization_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "memorandum of notification",
+                    "frequency": 2,
+                    "topic": "organization",
+                    "id": "memorandum_of_notification_organization_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "national journal",
+                    "frequency": 2,
+                    "topic": "organization",
+                    "id": "national_journal_organization_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "kill list",
+                    "frequency": 2,
+                    "topic": "organization",
+                    "id": "kill_list_organization_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "special operations",
+                    "frequency": 2,
+                    "topic": "organization",
+                    "id": "special_operations_organization_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "defense department",
+                    "frequency": 2,
+                    "topic": "organization",
+                    "id": "defense_department_organization_9"
+                }
+            ],
+            "miscellaneous": [
+                {
+                    "sudden": 5,
+                    "text": "qaeda",
+                    "frequency": 4,
+                    "topic": "miscellaneous",
+                    "id": "qaeda_miscellaneous_9"
+                },
+                {
+                    "sudden": 4,
+                    "text": "union",
+                    "frequency": 3,
+                    "topic": "miscellaneous",
+                    "id": "union_miscellaneous_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "vietnamese",
+                    "frequency": 2,
+                    "topic": "miscellaneous",
+                    "id": "vietnamese_miscellaneous_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "judiciary",
+                    "frequency": 2,
+                    "topic": "miscellaneous",
+                    "id": "judiciary_miscellaneous_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "osama",
+                    "frequency": 2,
+                    "topic": "miscellaneous",
+                    "id": "osama_miscellaneous_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "executive",
+                    "frequency": 2,
+                    "topic": "miscellaneous",
+                    "id": "executive_miscellaneous_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "ndaa",
+                    "frequency": 2,
+                    "topic": "miscellaneous",
+                    "id": "ndaa_miscellaneous_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "u.s. law",
+                    "frequency": 2,
+                    "topic": "miscellaneous",
+                    "id": "u_s__law_miscellaneous_9"
+                },
+                {
+                    "sudden": 3,
+                    "text": "anti-american",
+                    "frequency": 2,
+                    "topic": "miscellaneous",
+                    "id": "anti_american_miscellaneous_9"
+                },
+                {
+                    "sudden": 2.5,
+                    "text": "chinese",
+                    "frequency": 4,
+                    "topic": "miscellaneous",
+                    "id": "chinese_miscellaneous_9"
+                },
+                {
+                    "sudden": 2.5,
+                    "text": "yemenis",
+                    "frequency": 4,
+                    "topic": "miscellaneous",
+                    "id": "yemenis_miscellaneous_9"
+                },
+                {
+                    "sudden": 2,
+                    "text": "awlaki",
+                    "frequency": 3,
+                    "topic": "miscellaneous",
+                    "id": "awlaki_miscellaneous_9"
+                },
+                {
+                    "sudden": 2,
+                    "text": "islamic",
+                    "frequency": 3,
+                    "topic": "miscellaneous",
+                    "id": "islamic_miscellaneous_9"
+                },
+                {
+                    "sudden": 2,
+                    "text": "authorization",
+                    "frequency": 1,
+                    "topic": "miscellaneous",
+                    "id": "authorization_miscellaneous_9"
+                },
+                {
+                    "sudden": 2,
+                    "text": "solicitor",
+                    "frequency": 1,
+                    "topic": "miscellaneous",
+                    "id": "solicitor_miscellaneous_9"
+                }
+            ]
+        }
+    },
+    {
+        "date": "10",
+        "words": {
+            "person": [
+                {
+                    "sudden": 4,
+                    "text": "bradley manning",
+                    "frequency": 3,
+                    "topic": "person",
+                    "id": "bradley_manning_person_8"
+                },
+                {
+                    "sudden": 4,
+                    "text": "mueller",
+                    "frequency": 3,
+                    "topic": "person",
+                    "id": "mueller_person_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "donald rumsfeld",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "donald_rumsfeld_person_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "mark mazzetti",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "mark_mazzetti_person_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "ruth bader ginsburg",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "ruth_bader_ginsburg_person_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "roberts",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "roberts_person_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "john roberts",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "john_roberts_person_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "kennedy",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "kennedy_person_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "zahir azimi",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "zahir_azimi_person_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "adam",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "adam_person_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "sterling",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "sterling_person_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "sebastian vettel",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "sebastian_vettel_person_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "vettel",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "vettel_person_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "lanny breuer",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "lanny_breuer_person_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "abu ghaith",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "abu_ghaith_person_8"
+                }
+            ],
+            "location": [
+                {
+                    "sudden": 6,
+                    "text": "guantanamo",
+                    "frequency": 5,
+                    "topic": "location",
+                    "id": "guantanamo_location_8"
+                },
+                {
+                    "sudden": 4,
+                    "text": "guantanamo bay",
+                    "frequency": 3,
+                    "topic": "location",
+                    "id": "guantanamo_bay_location_8"
+                },
+                {
+                    "sudden": 4,
+                    "text": "cuba",
+                    "frequency": 3,
+                    "topic": "location",
+                    "id": "cuba_location_8"
+                },
+                {
+                    "sudden": 4,
+                    "text": "iraq war",
+                    "frequency": 3,
+                    "topic": "location",
+                    "id": "iraq_war_location_8"
+                },
+                {
+                    "sudden": 4,
+                    "text": "middle east",
+                    "frequency": 3,
+                    "topic": "location",
+                    "id": "middle_east_location_8"
+                },
+                {
+                    "sudden": 4,
+                    "text": "parwan",
+                    "frequency": 3,
+                    "topic": "location",
+                    "id": "parwan_location_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "turkey",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "turkey_location_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "italy",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "italy_location_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "tehran",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "tehran_location_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "india",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "india_location_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "qaeda",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "qaeda_location_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "cornyn",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "cornyn_location_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "michigan",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "michigan_location_8"
+                },
+                {
+                    "sudden": 2,
+                    "text": "syria",
+                    "frequency": 3,
+                    "topic": "location",
+                    "id": "syria_location_8"
+                },
+                {
+                    "sudden": 2,
+                    "text": "alabama",
+                    "frequency": 1,
+                    "topic": "location",
+                    "id": "alabama_location_8"
+                }
+            ],
+            "organization": [
+                {
+                    "sudden": 5,
+                    "text": "pentagon",
+                    "frequency": 4,
+                    "topic": "organization",
+                    "id": "pentagon_organization_8"
+                },
+                {
+                    "sudden": 4,
+                    "text": "justice",
+                    "frequency": 3,
+                    "topic": "organization",
+                    "id": "justice_organization_8"
+                },
+                {
+                    "sudden": 4,
+                    "text": "special rapporteur",
+                    "frequency": 3,
+                    "topic": "organization",
+                    "id": "special_rapporteur_organization_8"
+                },
+                {
+                    "sudden": 4,
+                    "text": "al-qaeda",
+                    "frequency": 3,
+                    "topic": "organization",
+                    "id": "al_qaeda_organization_8"
+                },
+                {
+                    "sudden": 4,
+                    "text": "detention facility",
+                    "frequency": 3,
+                    "topic": "organization",
+                    "id": "detention_facility_organization_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "wsj",
+                    "frequency": 2,
+                    "topic": "organization",
+                    "id": "wsj_organization_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "special forces",
+                    "frequency": 2,
+                    "topic": "organization",
+                    "id": "special_forces_organization_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "twitter fight club",
+                    "frequency": 2,
+                    "topic": "organization",
+                    "id": "twitter_fight_club_organization_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "chief justice",
+                    "frequency": 2,
+                    "topic": "organization",
+                    "id": "chief_justice_organization_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "u.s. supreme court",
+                    "frequency": 2,
+                    "topic": "organization",
+                    "id": "u_s__supreme_court_organization_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "hollingsworth v. perry prop",
+                    "frequency": 2,
+                    "topic": "organization",
+                    "id": "hollingsworth_v__perry_prop_organization_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "the court",
+                    "frequency": 2,
+                    "topic": "organization",
+                    "id": "the_court_organization_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "parwan prison",
+                    "frequency": 2,
+                    "topic": "organization",
+                    "id": "parwan_prison_organization_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "afghan defense ministry",
+                    "frequency": 2,
+                    "topic": "organization",
+                    "id": "afghan_defense_ministry_organization_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "defense",
+                    "frequency": 2,
+                    "topic": "organization",
+                    "id": "defense_organization_8"
+                }
+            ],
+            "miscellaneous": [
+                {
+                    "sudden": 5,
+                    "text": "afghans",
+                    "frequency": 4,
+                    "topic": "miscellaneous",
+                    "id": "afghans_miscellaneous_8"
+                },
+                {
+                    "sudden": 4,
+                    "text": "pakistanis",
+                    "frequency": 3,
+                    "topic": "miscellaneous",
+                    "id": "pakistanis_miscellaneous_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "turkish",
+                    "frequency": 2,
+                    "topic": "miscellaneous",
+                    "id": "turkish_miscellaneous_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "justices",
+                    "frequency": 2,
+                    "topic": "miscellaneous",
+                    "id": "justices_miscellaneous_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "ncaa",
+                    "frequency": 2,
+                    "topic": "miscellaneous",
+                    "id": "ncaa_miscellaneous_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "reagan",
+                    "frequency": 2,
+                    "topic": "miscellaneous",
+                    "id": "reagan_miscellaneous_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "nigerian",
+                    "frequency": 2,
+                    "topic": "miscellaneous",
+                    "id": "nigerian_miscellaneous_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "nyt",
+                    "frequency": 2,
+                    "topic": "miscellaneous",
+                    "id": "nyt_miscellaneous_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "jordanian",
+                    "frequency": 2,
+                    "topic": "miscellaneous",
+                    "id": "jordanian_miscellaneous_8"
+                },
+                {
+                    "sudden": 3,
+                    "text": "predator",
+                    "frequency": 2,
+                    "topic": "miscellaneous",
+                    "id": "predator_miscellaneous_8"
+                },
+                {
+                    "sudden": 2,
+                    "text": "wapo",
+                    "frequency": 3,
+                    "topic": "miscellaneous",
+                    "id": "wapo_miscellaneous_8"
+                },
+                {
+                    "sudden": 2,
+                    "text": "iraqis",
+                    "frequency": 3,
+                    "topic": "miscellaneous",
+                    "id": "iraqis_miscellaneous_8"
+                },
+                {
+                    "sudden": 2,
+                    "text": "pakistani",
+                    "frequency": 3,
+                    "topic": "miscellaneous",
+                    "id": "pakistani_miscellaneous_8"
+                },
+                {
+                    "sudden": 2,
+                    "text": "somali",
+                    "frequency": 1,
+                    "topic": "miscellaneous",
+                    "id": "somali_miscellaneous_8"
+                },
+                {
+                    "sudden": 2,
+                    "text": "post-assad",
+                    "frequency": 1,
+                    "topic": "miscellaneous",
+                    "id": "post_assad_miscellaneous_8"
+                }
+            ]
+        }
+    },
+    {
+        "date": "15",
+        "words": {
+            "person": [
+                {
+                    "sudden": 6,
+                    "text": "tsarnaev",
+                    "frequency": 5,
+                    "topic": "person",
+                    "id": "tsarnaev_person_7"
+                },
+                {
+                    "sudden": 5,
+                    "text": "dzhokhar tsarnaev",
+                    "frequency": 4,
+                    "topic": "person",
+                    "id": "dzhokhar_tsarnaev_person_7"
+                },
+                {
+                    "sudden": 4,
+                    "text": "michael hayden",
+                    "frequency": 3,
+                    "topic": "person",
+                    "id": "michael_hayden_person_7"
+                },
+                {
+                    "sudden": 4,
+                    "text": "mazzetti",
+                    "frequency": 3,
+                    "topic": "person",
+                    "id": "mazzetti_person_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "hillary clinton",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "hillary_clinton_person_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "ray kelly",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "ray_kelly_person_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "scahill",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "scahill_person_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "dirty wars",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "dirty_wars_person_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "davis",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "davis_person_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "tamerlan",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "tamerlan_person_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "lindsey",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "lindsey_person_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "qaeda",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "qaeda_person_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "chuck schumer",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "chuck_schumer_person_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "micah zenko",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "micah_zenko_person_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "petraeus",
+                    "frequency": 2,
+                    "topic": "person",
+                    "id": "petraeus_person_7"
+                }
+            ],
+            "location": [
+                {
+                    "sudden": 10,
+                    "text": "boston",
+                    "frequency": 9,
+                    "topic": "location",
+                    "id": "boston_location_7"
+                },
+                {
+                    "sudden": 4,
+                    "text": "balochistan",
+                    "frequency": 3,
+                    "topic": "location",
+                    "id": "balochistan_location_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "egypt",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "egypt_location_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "gitmo",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "gitmo_location_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "asia",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "asia_location_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "dubai",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "dubai_location_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "web",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "web_location_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "massachusetts",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "massachusetts_location_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "abyan",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "abyan_location_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "datta khel",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "datta_khel_location_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "shanghai",
+                    "frequency": 2,
+                    "topic": "location",
+                    "id": "shanghai_location_7"
+                },
+                {
+                    "sudden": 2,
+                    "text": "russia",
+                    "frequency": 3,
+                    "topic": "location",
+                    "id": "russia_location_7"
+                },
+                {
+                    "sudden": 2,
+                    "text": "jhal magsi",
+                    "frequency": 1,
+                    "topic": "location",
+                    "id": "jhal_magsi_location_7"
+                },
+                {
+                    "sudden": 2,
+                    "text": "chitral",
+                    "frequency": 1,
+                    "topic": "location",
+                    "id": "chitral_location_7"
+                },
+                {
+                    "sudden": 2,
+                    "text": "peshawar",
+                    "frequency": 1,
+                    "topic": "location",
+                    "id": "peshawar_location_7"
+                }
+            ],
+            "organization": [
+                {
+                    "sudden": 6,
+                    "text": "tamerlan tsarnaev",
+                    "frequency": 5,
+                    "topic": "organization",
+                    "id": "tamerlan_tsarnaev_organization_7"
+                },
+                {
+                    "sudden": 4,
+                    "text": "tamerlan",
+                    "frequency": 3,
+                    "topic": "organization",
+                    "id": "tamerlan_organization_7"
+                },
+                {
+                    "sudden": 4,
+                    "text": "aqap",
+                    "frequency": 3,
+                    "topic": "organization",
+                    "id": "aqap_organization_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "u.s. drug enforcement administration",
+                    "frequency": 2,
+                    "topic": "organization",
+                    "id": "u_s__drug_enforcement_administration_organization_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "aumf",
+                    "frequency": 2,
+                    "topic": "organization",
+                    "id": "aumf_organization_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "house intelligence committee",
+                    "frequency": 2,
+                    "topic": "organization",
+                    "id": "house_intelligence_committee_organization_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "department of homeland security",
+                    "frequency": 2,
+                    "topic": "organization",
+                    "id": "department_of_homeland_security_organization_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "international consortium of investigative journalists",
+                    "frequency": 2,
+                    "topic": "organization",
+                    "id": "international_consortium_of_investigative_journalists_organization_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "house intelligence chair",
+                    "frequency": 2,
+                    "topic": "organization",
+                    "id": "house_intelligence_chair_organization_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "counterterrorism center",
+                    "frequency": 2,
+                    "topic": "organization",
+                    "id": "counterterrorism_center_organization_7"
+                },
+                {
+                    "sudden": 2.5,
+                    "text": "reuters",
+                    "frequency": 4,
+                    "topic": "organization",
+                    "id": "reuters_organization_7"
+                },
+                {
+                    "sudden": 2.5,
+                    "text": "c.i.a.",
+                    "frequency": 4,
+                    "topic": "organization",
+                    "id": "c_i_a__organization_7"
+                },
+                {
+                    "sudden": 2,
+                    "text": "senate armed services committee",
+                    "frequency": 3,
+                    "topic": "organization",
+                    "id": "senate_armed_services_committee_organization_7"
+                },
+                {
+                    "sudden": 2,
+                    "text": "department of justice",
+                    "frequency": 3,
+                    "topic": "organization",
+                    "id": "department_of_justice_organization_7"
+                },
+                {
+                    "sudden": 2,
+                    "text": "mouhamedou ould slahi",
+                    "frequency": 1,
+                    "topic": "organization",
+                    "id": "mouhamedou_ould_slahi_organization_7"
+                }
+            ],
+            "miscellaneous": [
+                {
+                    "sudden": 11,
+                    "text": "boston marathon",
+                    "frequency": 10,
+                    "topic": "miscellaneous",
+                    "id": "boston_marathon_miscellaneous_7"
+                },
+                {
+                    "sudden": 4,
+                    "text": "russians",
+                    "frequency": 3,
+                    "topic": "miscellaneous",
+                    "id": "russians_miscellaneous_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "english",
+                    "frequency": 2,
+                    "topic": "miscellaneous",
+                    "id": "english_miscellaneous_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "dzhokhar",
+                    "frequency": 2,
+                    "topic": "miscellaneous",
+                    "id": "dzhokhar_miscellaneous_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "tsarnaev",
+                    "frequency": 2,
+                    "topic": "miscellaneous",
+                    "id": "tsarnaev_miscellaneous_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "haqqani",
+                    "frequency": 2,
+                    "topic": "miscellaneous",
+                    "id": "haqqani_miscellaneous_7"
+                },
+                {
+                    "sudden": 3,
+                    "text": "qaida",
+                    "frequency": 2,
+                    "topic": "miscellaneous",
+                    "id": "qaida_miscellaneous_7"
+                },
+                {
+                    "sudden": 2.5,
+                    "text": "chinese",
+                    "frequency": 4,
+                    "topic": "miscellaneous",
+                    "id": "chinese_miscellaneous_7"
+                },
+                {
+                    "sudden": 2.25,
+                    "text": "pakistani",
+                    "frequency": 8,
+                    "topic": "miscellaneous",
+                    "id": "pakistani_miscellaneous_7"
+                },
+                {
+                    "sudden": 2,
+                    "text": "mauritanian",
+                    "frequency": 1,
+                    "topic": "miscellaneous",
+                    "id": "mauritanian_miscellaneous_7"
+                },
+                {
+                    "sudden": 2,
+                    "text": "presidential election",
+                    "frequency": 1,
+                    "topic": "miscellaneous",
+                    "id": "presidential_election_miscellaneous_7"
+                },
+                {
+                    "sudden": 2,
+                    "text": "freedom",
+                    "frequency": 1,
+                    "topic": "miscellaneous",
+                    "id": "freedom_miscellaneous_7"
+                },
+                {
+                    "sudden": 2,
+                    "text": "navy",
+                    "frequency": 1,
+                    "topic": "miscellaneous",
+                    "id": "navy_miscellaneous_7"
+                },
+                {
+                    "sudden": 2,
+                    "text": "asian",
+                    "frequency": 1,
+                    "topic": "miscellaneous",
+                    "id": "asian_miscellaneous_7"
+                },
+                {
+                    "sudden": 2,
+                    "text": "forum",
+                    "frequency": 1,
+                    "topic": "miscellaneous",
+                    "id": "forum_miscellaneous_7"
+                }
+            ]
+        }
+    }
+]

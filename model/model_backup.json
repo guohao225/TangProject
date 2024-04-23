@@ -1,0 +1,53 @@
+{
+  "data": {
+    "data_dir": "data",
+    "train_file_name": "train.csv",
+    "ver_file_name": "verify.csv",
+    "file_sep": " ",
+    "vocab_dir": "data/vocab",
+    "vocab_name": "vocab.txt",
+    "label_name": "label2id.txt",
+    "describe": "data_dir为数据存放的文件夹，train_file_name为训练文件，ver_file_name为验证集文件，file_sep为数据的分割符,vacab_dir词表文件夹,vocab_name:词表名称"
+  },
+  "model_config": {
+    "finetune": false,
+    "ver_model":1,
+    "use_bert": false,
+    "bert_model_name": "hfl/chinese-bert-wwm-ext",
+    "checkpoints_dir": "checkpoints",
+    "checkpoint_name": "Bert-AtnBilstm-Crf",
+    "embedding_dim": 300,
+    "hidden_dim": 32,
+    "max_sequence_len": 300,
+    "seed": 42,
+    "describe": ["hfl/chinese-bert-wwm-ext",
+                "finetune:bert模型是否使用微调，",
+                 "ver_model:[1:'LSTM',2:'BILSTM']",
+                "checkpoints_dir模型参数输出文件夹",
+                "checkpoint_name：模型参数保存的文件",
+                "embedding_dim：词嵌入维度",
+                "hidden_dim：隐藏层维度",
+                "max_sequence_len:最大句子长度",
+                "seed:"]
+  },
+  "label_config": {
+    "label_prefix": ["B","I","O"],
+    "label_suffix": ["PER", "LOC"],
+    "padding": "[PAD]",
+    "describe": ["label_prefix:标签的前缀","label_suffix:标签的后缀"]
+  },
+  "train_config": {
+    "epochs": 15,
+    "batch_size": 30,
+    "droupout": 0.3,
+    "learning_rate": 0.001,
+    "optimizer": "Adam",
+    "per_step_to_show": 10,
+    "describe": ["epochs:训练次数",
+                "batch_size:训练样本批次大小",
+                "droupout:神经元失效率",
+                "learning_rate:学习率",
+                "optimizer:优化函数",
+                "per_step_to_show:在训练时，每30步打印一次输出"]
+  }
+}

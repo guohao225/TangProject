@@ -1,0 +1,10 @@
+[PAD] 0
+O 1
+B-PER 2
+B-LOC 3
+B-ORG 4
+B-BOO 5
+I-PER 6
+I-LOC 7
+I-ORG 8
+I-BOO 9

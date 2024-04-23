@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>可滑动的数据范围折线图</title>
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+<div id="slider"></div>
+<svg width="500" height="300"></svg>
+<script>
+    // 数据
+    var data = [
+        {x: 0, y: 50},
+        {x: 10, y: 80},
+        {x: 20, y: 70},
+        {x: 30, y: 60},
+        {x: 40, y: 90},
+        {x: 50, y: 100},
+        {x: 60, y: 80},
+        {x: 70, y: 70},
+        {x: 80, y: 50},
+        {x: 90, y: 30},
+        {x: 100, y: 20}
+    ];
+    data = data.slice(0, 6)
+    console.log(data)
+    // 创建SVG元素
+    var svg = d3.select("svg");
+
+    // 定义比例尺
+    var xScale = d3.scaleLinear()
+        .domain([0, 100])
+        .range([0, 500]);
+
+    var yScale = d3.scaleLinear()
+        .domain([0, 100])
+        .range([300, 0]);
+
+    // 定义线条
+    var line = d3.line()
+        .x(function(d) { return xScale(d.x); })
+        .y(function(d) { return yScale(d.y); });
+
+    // 绘制初始折线图
+    svg.append("path")
+        .datum(data)
+        .attr("d", line)
+        .style("stroke", "blue")
+        .style("fill", "none");
+
+    // 创建滑块
+    $("#slider").slider({
+        range: true,
+        min: 0,
+        max: 100,
+        values: [0, 50],
+        slide: function(event, ui) {
+            // 更新折线图的可视范围
+            var newData = data.filter(function(d) {
+                return (d.x >= ui.values[0] && d.x <= ui.values[1]);
+            });
+            svg.selectAll("path").remove();
+            svg.append("path")
+                .datum(newData)
+                .attr("d", line)
+                .style("stroke", "blue")
+                .style("fill", "none");
+        }
+    });
+</script>
+</body>
+</html>
